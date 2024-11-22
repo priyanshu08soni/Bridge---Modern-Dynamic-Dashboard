@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://ai-saas-app-xi-eight.vercel.app/" target="_blank">
-      <img src="https://github.com/priyanshu08soni/ai-saas-app/blob/master/Thumbnail.png" alt="Project Banner">
+      <img src="https://github.com/priyanshu08soni/Bridge---Modern-Dynamic-Dashboard/blob/master/Thumbnail.png" alt="Project Banner">
     </a>
   <br />
   <div>
