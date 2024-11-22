@@ -1,0 +1,1402 @@
+{
+    "status": "success",
+    "message": "Data fetch successfully",
+    "dashboard": {
+      "userMetrics": {
+        "daily": {
+          "totalUser": 25,
+          "totalReferral": 8,
+          "activeUser": 30,
+          "creator": 4,
+          "chartData": [
+            {
+              "timestamp": "2024-11-22 07:56:19",
+              "count": 6
+            },
+            {
+              "timestamp": "2024-11-22 07:57:01",
+              "count": 38
+            },
+            {
+              "timestamp": "2024-11-22 09:29:51",
+              "count": 324
+            },
+            {
+              "timestamp": "2024-11-22 18:20:41",
+              "count": 221
+            },
+            {
+              "timestamp": "2024-11-22 17:04:03",
+              "count": 246
+            },
+            {
+              "timestamp": "2024-11-22 01:32:37",
+              "count": 252
+            },
+            {
+              "timestamp": "2024-11-22 01:04:19",
+              "count": 434
+            },
+            {
+              "timestamp": "2024-11-22 17:19:50",
+              "count": 192
+            },
+            {
+              "timestamp": "2024-11-22 12:03:46",
+              "count": 46
+            },
+            {
+              "timestamp": "2024-11-22 01:51:41",
+              "count": 202
+            },
+            {
+              "timestamp": "2024-11-22 04:54:41",
+              "count": 443
+            },
+            {
+              "timestamp": "2024-11-22 14:38:13",
+              "count": 160
+            },
+            {
+              "timestamp": "2024-11-22 06:28:37",
+              "count": 145
+            },
+            {
+              "timestamp": "2024-11-22 09:04:33",
+              "count": 496
+            },
+            {
+              "timestamp": "2024-11-22 17:26:07",
+              "count": 424
+            },
+            {
+              "timestamp": "2024-11-22 13:57:05",
+              "count": 363
+            },
+            {
+              "timestamp": "2024-11-22 01:57:58",
+              "count": 12
+            },
+            {
+              "timestamp": "2024-11-22 10:01:59",
+              "count": 128
+            },
+            {
+              "timestamp": "2024-11-22 21:07:54",
+              "count": 368
+            },
+            {
+              "timestamp": "2024-11-22 05:17:03",
+              "count": 275
+            },
+            {
+              "timestamp": "2024-11-22 11:39:46",
+              "count": 42
+            },
+            {
+              "timestamp": "2024-11-22 21:31:14",
+              "count": 176
+            },
+            {
+              "timestamp": "2024-11-22 05:16:04",
+              "count": 195
+            },
+            {
+              "timestamp": "2024-11-22 19:43:17",
+              "count": 142
+            },
+            {
+              "timestamp": "2024-11-22 16:31:52",
+              "count": 364
+            },
+            {
+              "timestamp": "2024-11-22 00:51:02",
+              "count": 462
+            },
+            {
+              "timestamp": "2024-11-22 23:52:29",
+              "count": 427
+            },
+            {
+              "timestamp": "2024-11-22 15:27:27",
+              "count": 190
+            },
+            {
+              "timestamp": "2024-11-22 18:59:36",
+              "count": 472
+            },
+            {
+              "timestamp": "2024-11-22 13:29:11",
+              "count": 450
+            },
+            {
+              "timestamp": "2024-11-22 07:17:55",
+              "count": 46
+            },
+            {
+              "timestamp": "2024-11-22 05:47:33",
+              "count": 320
+            },
+            {
+              "timestamp": "2024-11-22 06:38:14",
+              "count": 293
+            },
+            {
+              "timestamp": "2024-11-22 07:21:51",
+              "count": 178
+            },
+            {
+              "timestamp": "2024-11-22 21:26:51",
+              "count": 391
+            },
+            {
+              "timestamp": "2024-11-22 03:24:05",
+              "count": 386
+            },
+            {
+              "timestamp": "2024-11-22 17:15:19",
+              "count": 11
+            },
+            {
+              "timestamp": "2024-11-22 11:42:18",
+              "count": 40
+            },
+            {
+              "timestamp": "2024-11-22 14:01:05",
+              "count": 64
+            },
+            {
+              "timestamp": "2024-11-22 04:39:15",
+              "count": 84
+            },
+            {
+              "timestamp": "2024-11-22 13:00:31",
+              "count": 51
+            },
+            {
+              "timestamp": "2024-11-22 22:29:23",
+              "count": 350
+            },
+            {
+              "timestamp": "2024-11-22 05:12:39",
+              "count": 494
+            },
+            {
+              "timestamp": "2024-11-22 00:29:39",
+              "count": 428
+            },
+            {
+              "timestamp": "2024-11-22 00:16:30",
+              "count": 435
+            },
+            {
+              "timestamp": "2024-11-22 16:53:35",
+              "count": 461
+            },
+            {
+              "timestamp": "2024-11-22 09:29:11",
+              "count": 364
+            },
+            {
+              "timestamp": "2024-11-22 06:44:12",
+              "count": 405
+            },
+            {
+              "timestamp": "2024-11-22 16:49:53",
+              "count": 127
+            },
+            {
+              "timestamp": "2024-11-22 11:06:56",
+              "count": 351
+            }
+          ]
+        },
+        "monthly": {
+          "totalUser": 4557,
+          "totalReferral": 2904,
+          "activeUser": 2343,
+          "creator": 727,
+          "chartData": [
+            {
+              "timestamp": "2024-11-24 06:50:12",
+              "count": 1037
+            },
+            {
+              "timestamp": "2024-11-20 11:32:29",
+              "count": 1287
+            },
+            {
+              "timestamp": "2024-11-07 09:56:34",
+              "count": 565
+            },
+            {
+              "timestamp": "2024-11-12 19:30:59",
+              "count": 307
+            },
+            {
+              "timestamp": "2024-11-19 08:02:16",
+              "count": 381
+            },
+            {
+              "timestamp": "2024-11-14 01:25:52",
+              "count": 986
+            },
+            {
+              "timestamp": "2024-11-23 08:53:27",
+              "count": 1116
+            },
+            {
+              "timestamp": "2024-11-23 21:33:20",
+              "count": 692
+            },
+            {
+              "timestamp": "2024-11-23 18:31:01",
+              "count": 1440
+            },
+            {
+              "timestamp": "2024-11-01 09:05:19",
+              "count": 1227
+            },
+            {
+              "timestamp": "2024-11-08 16:52:26",
+              "count": 897
+            },
+            {
+              "timestamp": "2024-11-20 12:20:42",
+              "count": 1164
+            },
+            {
+              "timestamp": "2024-11-27 12:43:07",
+              "count": 1203
+            },
+            {
+              "timestamp": "2024-11-08 03:45:55",
+              "count": 832
+            },
+            {
+              "timestamp": "2024-11-07 19:38:08",
+              "count": 495
+            },
+            {
+              "timestamp": "2024-11-27 00:26:24",
+              "count": 279
+            },
+            {
+              "timestamp": "2024-11-05 01:52:17",
+              "count": 483
+            },
+            {
+              "timestamp": "2024-11-28 09:32:09",
+              "count": 744
+            },
+            {
+              "timestamp": "2024-11-17 00:25:39",
+              "count": 1326
+            },
+            {
+              "timestamp": "2024-11-24 19:55:20",
+              "count": 683
+            },
+            {
+              "timestamp": "2024-11-05 21:07:20",
+              "count": 177
+            },
+            {
+              "timestamp": "2024-11-01 23:04:02",
+              "count": 765
+            },
+            {
+              "timestamp": "2024-11-13 13:13:04",
+              "count": 1274
+            },
+            {
+              "timestamp": "2024-11-23 06:28:47",
+              "count": 182
+            },
+            {
+              "timestamp": "2024-11-08 17:00:59",
+              "count": 792
+            },
+            {
+              "timestamp": "2024-11-22 05:57:22",
+              "count": 1128
+            },
+            {
+              "timestamp": "2024-11-24 21:08:30",
+              "count": 1219
+            },
+            {
+              "timestamp": "2024-11-12 18:27:54",
+              "count": 1278
+            },
+            {
+              "timestamp": "2024-11-14 01:26:00",
+              "count": 308
+            },
+            {
+              "timestamp": "2024-11-19 19:00:42",
+              "count": 872
+            }
+          ]
+        },
+        "allTime": {
+          "totalUser": 123853,
+          "totalReferral": 30142,
+          "activeUser": 115474,
+          "creator": 8178
+        }
+      },
+      "contentMetrics": {
+        "daily": {
+          "totalPosts": 16,
+          "totalCategory": 6,
+          "totalPostExitCount": 20,
+          "totalPostShares": 7,
+          "totalViews": 357,
+          "totalComments": 38,
+          "totalPostBlocked": 2,
+          "totalPostDeleted": 4,
+          "chartData": [
+            {
+              "timestamp": "2024-11-22 00:38:15",
+              "count": 410
+            },
+            {
+              "timestamp": "2024-11-22 12:47:21",
+              "count": 497
+            },
+            {
+              "timestamp": "2024-11-22 13:32:22",
+              "count": 491
+            },
+            {
+              "timestamp": "2024-11-22 09:54:57",
+              "count": 472
+            },
+            {
+              "timestamp": "2024-11-22 16:59:16",
+              "count": 299
+            },
+            {
+              "timestamp": "2024-11-22 12:23:45",
+              "count": 7
+            },
+            {
+              "timestamp": "2024-11-22 09:06:49",
+              "count": 344
+            },
+            {
+              "timestamp": "2024-11-22 01:13:12",
+              "count": 383
+            },
+            {
+              "timestamp": "2024-11-22 18:17:06",
+              "count": 156
+            },
+            {
+              "timestamp": "2024-11-22 08:40:21",
+              "count": 41
+            },
+            {
+              "timestamp": "2024-11-22 05:03:47",
+              "count": 496
+            },
+            {
+              "timestamp": "2024-11-22 04:10:46",
+              "count": 7
+            },
+            {
+              "timestamp": "2024-11-22 10:16:26",
+              "count": 101
+            },
+            {
+              "timestamp": "2024-11-22 10:26:57",
+              "count": 291
+            },
+            {
+              "timestamp": "2024-11-22 14:08:46",
+              "count": 233
+            },
+            {
+              "timestamp": "2024-11-22 07:42:16",
+              "count": 290
+            },
+            {
+              "timestamp": "2024-11-22 13:33:34",
+              "count": 16
+            },
+            {
+              "timestamp": "2024-11-22 13:48:14",
+              "count": 197
+            },
+            {
+              "timestamp": "2024-11-22 22:10:20",
+              "count": 487
+            },
+            {
+              "timestamp": "2024-11-22 14:15:57",
+              "count": 108
+            },
+            {
+              "timestamp": "2024-11-22 09:19:51",
+              "count": 220
+            },
+            {
+              "timestamp": "2024-11-22 21:05:49",
+              "count": 371
+            },
+            {
+              "timestamp": "2024-11-22 10:50:09",
+              "count": 175
+            },
+            {
+              "timestamp": "2024-11-22 09:24:47",
+              "count": 291
+            },
+            {
+              "timestamp": "2024-11-22 23:09:44",
+              "count": 398
+            },
+            {
+              "timestamp": "2024-11-22 16:56:16",
+              "count": 390
+            },
+            {
+              "timestamp": "2024-11-22 20:51:55",
+              "count": 342
+            },
+            {
+              "timestamp": "2024-11-22 07:15:00",
+              "count": 445
+            },
+            {
+              "timestamp": "2024-11-22 08:35:05",
+              "count": 355
+            },
+            {
+              "timestamp": "2024-11-22 05:52:13",
+              "count": 135
+            },
+            {
+              "timestamp": "2024-11-22 21:35:28",
+              "count": 379
+            },
+            {
+              "timestamp": "2024-11-22 06:00:17",
+              "count": 180
+            },
+            {
+              "timestamp": "2024-11-22 20:24:35",
+              "count": 340
+            },
+            {
+              "timestamp": "2024-11-22 18:59:01",
+              "count": 119
+            },
+            {
+              "timestamp": "2024-11-22 05:55:33",
+              "count": 341
+            },
+            {
+              "timestamp": "2024-11-22 09:38:05",
+              "count": 375
+            },
+            {
+              "timestamp": "2024-11-22 22:20:35",
+              "count": 103
+            },
+            {
+              "timestamp": "2024-11-22 17:04:46",
+              "count": 10
+            },
+            {
+              "timestamp": "2024-11-22 07:10:03",
+              "count": 162
+            },
+            {
+              "timestamp": "2024-11-22 02:26:00",
+              "count": 20
+            },
+            {
+              "timestamp": "2024-11-22 07:35:08",
+              "count": 40
+            },
+            {
+              "timestamp": "2024-11-22 23:20:33",
+              "count": 351
+            },
+            {
+              "timestamp": "2024-11-22 02:37:39",
+              "count": 78
+            },
+            {
+              "timestamp": "2024-11-22 06:20:28",
+              "count": 432
+            },
+            {
+              "timestamp": "2024-11-22 07:47:44",
+              "count": 198
+            },
+            {
+              "timestamp": "2024-11-22 09:24:27",
+              "count": 298
+            },
+            {
+              "timestamp": "2024-11-22 23:15:22",
+              "count": 337
+            },
+            {
+              "timestamp": "2024-11-22 11:01:18",
+              "count": 51
+            },
+            {
+              "timestamp": "2024-11-22 21:58:25",
+              "count": 137
+            },
+            {
+              "timestamp": "2024-11-22 19:06:02",
+              "count": 321
+            }
+          ]
+        },
+        "monthly": {
+          "totalPosts": 21720,
+          "totalCategory": 79,
+          "totalPostExitCount": 1180,
+          "totalPostShares": 885,
+          "totalViews": 32881,
+          "totalComments": 19454,
+          "totalPostBlocked": 139,
+          "totalPostDeleted": 65,
+          "chartData": [
+            {
+              "timestamp": "2024-11-27 05:18:18",
+              "count": 978
+            },
+            {
+              "timestamp": "2024-11-23 19:44:18",
+              "count": 588
+            },
+            {
+              "timestamp": "2024-11-29 21:46:27",
+              "count": 1050
+            },
+            {
+              "timestamp": "2024-11-10 05:43:32",
+              "count": 462
+            },
+            {
+              "timestamp": "2024-11-19 15:45:31",
+              "count": 1071
+            },
+            {
+              "timestamp": "2024-11-10 08:41:30",
+              "count": 1332
+            },
+            {
+              "timestamp": "2024-11-24 02:29:04",
+              "count": 1205
+            },
+            {
+              "timestamp": "2024-11-23 21:31:24",
+              "count": 1220
+            },
+            {
+              "timestamp": "2024-11-19 22:10:24",
+              "count": 16
+            },
+            {
+              "timestamp": "2024-11-27 17:39:18",
+              "count": 1330
+            },
+            {
+              "timestamp": "2024-11-12 22:05:39",
+              "count": 1189
+            },
+            {
+              "timestamp": "2024-11-16 00:40:17",
+              "count": 336
+            },
+            {
+              "timestamp": "2024-11-15 20:25:16",
+              "count": 88
+            },
+            {
+              "timestamp": "2024-11-30 13:28:56",
+              "count": 1098
+            },
+            {
+              "timestamp": "2024-11-19 18:55:54",
+              "count": 1268
+            },
+            {
+              "timestamp": "2024-11-14 00:27:42",
+              "count": 800
+            },
+            {
+              "timestamp": "2024-11-04 03:34:33",
+              "count": 504
+            },
+            {
+              "timestamp": "2024-11-24 16:26:14",
+              "count": 1431
+            },
+            {
+              "timestamp": "2024-11-20 13:38:46",
+              "count": 190
+            },
+            {
+              "timestamp": "2024-11-30 12:46:19",
+              "count": 785
+            },
+            {
+              "timestamp": "2024-11-13 04:19:19",
+              "count": 1010
+            },
+            {
+              "timestamp": "2024-11-13 14:57:12",
+              "count": 675
+            },
+            {
+              "timestamp": "2024-11-20 02:11:08",
+              "count": 1154
+            },
+            {
+              "timestamp": "2024-11-13 20:30:11",
+              "count": 131
+            },
+            {
+              "timestamp": "2024-11-02 22:15:23",
+              "count": 1228
+            },
+            {
+              "timestamp": "2024-11-03 03:49:00",
+              "count": 4
+            },
+            {
+              "timestamp": "2024-11-10 21:54:27",
+              "count": 112
+            },
+            {
+              "timestamp": "2024-11-14 02:52:07",
+              "count": 2
+            },
+            {
+              "timestamp": "2024-11-19 04:55:16",
+              "count": 1345
+            },
+            {
+              "timestamp": "2024-11-24 21:00:46",
+              "count": 48
+            }
+          ]
+        },
+        "allTime": {
+          "totalPosts": 168966,
+          "totalCategory": 1642,
+          "totalPostExitCount": 88978,
+          "totalPostShares": 72288,
+          "totalViews": 1558246,
+          "totalComments": 255754,
+          "totalPostBlocked": 5573,
+          "totalPostDeleted": 4024
+        }
+      },
+      "engagementMetrics": {
+        "daily": {
+          "totalLikes": 49,
+          "totalViews": 92,
+          "totalNotifications": 6,
+          "totalMessage": 13,
+          "privateChats": 3,
+          "chartData": [
+            {
+              "timestamp": "2024-11-22 05:54:14",
+              "count": 397
+            },
+            {
+              "timestamp": "2024-11-22 07:53:03",
+              "count": 88
+            },
+            {
+              "timestamp": "2024-11-22 11:28:20",
+              "count": 337
+            },
+            {
+              "timestamp": "2024-11-22 22:24:37",
+              "count": 209
+            },
+            {
+              "timestamp": "2024-11-22 08:02:24",
+              "count": 375
+            },
+            {
+              "timestamp": "2024-11-22 19:37:42",
+              "count": 99
+            },
+            {
+              "timestamp": "2024-11-22 12:38:34",
+              "count": 108
+            },
+            {
+              "timestamp": "2024-11-22 08:04:19",
+              "count": 462
+            },
+            {
+              "timestamp": "2024-11-22 09:28:52",
+              "count": 496
+            },
+            {
+              "timestamp": "2024-11-22 23:15:57",
+              "count": 95
+            },
+            {
+              "timestamp": "2024-11-22 17:48:03",
+              "count": 221
+            },
+            {
+              "timestamp": "2024-11-22 02:52:09",
+              "count": 271
+            },
+            {
+              "timestamp": "2024-11-22 11:32:45",
+              "count": 211
+            },
+            {
+              "timestamp": "2024-11-22 04:43:11",
+              "count": 84
+            },
+            {
+              "timestamp": "2024-11-22 14:59:35",
+              "count": 365
+            },
+            {
+              "timestamp": "2024-11-22 16:38:36",
+              "count": 389
+            },
+            {
+              "timestamp": "2024-11-22 21:12:47",
+              "count": 290
+            },
+            {
+              "timestamp": "2024-11-22 04:31:14",
+              "count": 182
+            },
+            {
+              "timestamp": "2024-11-22 14:11:59",
+              "count": 140
+            },
+            {
+              "timestamp": "2024-11-22 00:34:55",
+              "count": 20
+            },
+            {
+              "timestamp": "2024-11-22 02:36:37",
+              "count": 448
+            },
+            {
+              "timestamp": "2024-11-22 17:17:48",
+              "count": 29
+            },
+            {
+              "timestamp": "2024-11-22 05:44:55",
+              "count": 228
+            },
+            {
+              "timestamp": "2024-11-22 08:13:04",
+              "count": 489
+            },
+            {
+              "timestamp": "2024-11-22 21:02:41",
+              "count": 458
+            },
+            {
+              "timestamp": "2024-11-22 09:31:22",
+              "count": 473
+            },
+            {
+              "timestamp": "2024-11-22 04:36:30",
+              "count": 326
+            },
+            {
+              "timestamp": "2024-11-22 23:36:07",
+              "count": 114
+            },
+            {
+              "timestamp": "2024-11-22 08:10:40",
+              "count": 310
+            },
+            {
+              "timestamp": "2024-11-22 09:05:02",
+              "count": 67
+            },
+            {
+              "timestamp": "2024-11-22 17:16:02",
+              "count": 319
+            },
+            {
+              "timestamp": "2024-11-22 23:39:38",
+              "count": 189
+            },
+            {
+              "timestamp": "2024-11-22 23:01:17",
+              "count": 387
+            },
+            {
+              "timestamp": "2024-11-22 21:05:50",
+              "count": 370
+            },
+            {
+              "timestamp": "2024-11-22 22:08:52",
+              "count": 440
+            },
+            {
+              "timestamp": "2024-11-22 18:35:17",
+              "count": 354
+            },
+            {
+              "timestamp": "2024-11-22 16:57:38",
+              "count": 400
+            },
+            {
+              "timestamp": "2024-11-22 23:28:36",
+              "count": 306
+            },
+            {
+              "timestamp": "2024-11-22 13:41:03",
+              "count": 337
+            },
+            {
+              "timestamp": "2024-11-22 05:45:50",
+              "count": 250
+            },
+            {
+              "timestamp": "2024-11-22 20:57:49",
+              "count": 166
+            },
+            {
+              "timestamp": "2024-11-22 00:10:29",
+              "count": 316
+            },
+            {
+              "timestamp": "2024-11-22 11:44:03",
+              "count": 103
+            },
+            {
+              "timestamp": "2024-11-22 11:05:25",
+              "count": 264
+            },
+            {
+              "timestamp": "2024-11-22 21:12:10",
+              "count": 151
+            },
+            {
+              "timestamp": "2024-11-22 09:47:52",
+              "count": 484
+            },
+            {
+              "timestamp": "2024-11-22 08:24:28",
+              "count": 37
+            },
+            {
+              "timestamp": "2024-11-22 04:59:41",
+              "count": 243
+            },
+            {
+              "timestamp": "2024-11-22 00:35:17",
+              "count": 130
+            },
+            {
+              "timestamp": "2024-11-22 09:56:13",
+              "count": 146
+            }
+          ]
+        },
+        "monthly": {
+          "totalLikes": 3775,
+          "totalViews": 49022,
+          "totalNotifications": 2959,
+          "totalMessage": 1212,
+          "privateChats": 593,
+          "chartData": [
+            {
+              "timestamp": "2024-11-13 07:20:29",
+              "count": 1116
+            },
+            {
+              "timestamp": "2024-11-09 18:40:18",
+              "count": 1249
+            },
+            {
+              "timestamp": "2024-11-07 23:41:10",
+              "count": 452
+            },
+            {
+              "timestamp": "2024-11-13 01:17:33",
+              "count": 510
+            },
+            {
+              "timestamp": "2024-11-07 13:28:00",
+              "count": 1438
+            },
+            {
+              "timestamp": "2024-11-01 09:43:37",
+              "count": 966
+            },
+            {
+              "timestamp": "2024-11-22 07:39:27",
+              "count": 903
+            },
+            {
+              "timestamp": "2024-11-25 06:24:08",
+              "count": 8
+            },
+            {
+              "timestamp": "2024-11-21 22:09:09",
+              "count": 861
+            },
+            {
+              "timestamp": "2024-11-01 06:42:38",
+              "count": 1180
+            },
+            {
+              "timestamp": "2024-11-16 23:57:29",
+              "count": 208
+            },
+            {
+              "timestamp": "2024-11-12 14:20:49",
+              "count": 89
+            },
+            {
+              "timestamp": "2024-11-15 14:49:00",
+              "count": 442
+            },
+            {
+              "timestamp": "2024-11-27 10:20:04",
+              "count": 293
+            },
+            {
+              "timestamp": "2024-11-28 19:04:05",
+              "count": 216
+            },
+            {
+              "timestamp": "2024-11-11 04:02:25",
+              "count": 449
+            },
+            {
+              "timestamp": "2024-11-02 01:58:59",
+              "count": 726
+            },
+            {
+              "timestamp": "2024-11-30 19:43:01",
+              "count": 1495
+            },
+            {
+              "timestamp": "2024-11-25 06:33:42",
+              "count": 851
+            },
+            {
+              "timestamp": "2024-11-15 14:33:58",
+              "count": 332
+            },
+            {
+              "timestamp": "2024-11-04 16:21:29",
+              "count": 462
+            },
+            {
+              "timestamp": "2024-11-03 05:31:23",
+              "count": 752
+            },
+            {
+              "timestamp": "2024-11-15 07:09:02",
+              "count": 1269
+            },
+            {
+              "timestamp": "2024-11-25 01:39:32",
+              "count": 421
+            },
+            {
+              "timestamp": "2024-11-05 12:30:13",
+              "count": 321
+            },
+            {
+              "timestamp": "2024-11-07 12:58:19",
+              "count": 139
+            },
+            {
+              "timestamp": "2024-11-23 04:56:53",
+              "count": 353
+            },
+            {
+              "timestamp": "2024-11-23 06:09:58",
+              "count": 1256
+            },
+            {
+              "timestamp": "2024-11-08 23:07:40",
+              "count": 188
+            },
+            {
+              "timestamp": "2024-11-29 09:21:54",
+              "count": 541
+            }
+          ]
+        },
+        "allTime": {
+          "totalLikes": 395360,
+          "totalViews": 878893,
+          "totalNotifications": 96428,
+          "totalMessage": 31840,
+          "privateChats": 14434
+        }
+      },
+      "blockchainMetrics": {
+        "daily": {
+          "totalTokens": 13,
+          "totalWalletOnSolana": 5,
+          "totalWalletOnPolygon": 10,
+          "totalWalletOnEthereum": 15,
+          "chartData": [
+            {
+              "timestamp": "2024-11-22 15:17:48",
+              "count": 268
+            },
+            {
+              "timestamp": "2024-11-22 02:20:55",
+              "count": 221
+            },
+            {
+              "timestamp": "2024-11-22 06:54:44",
+              "count": 36
+            },
+            {
+              "timestamp": "2024-11-22 09:22:51",
+              "count": 268
+            },
+            {
+              "timestamp": "2024-11-22 19:18:40",
+              "count": 480
+            },
+            {
+              "timestamp": "2024-11-22 08:46:53",
+              "count": 321
+            },
+            {
+              "timestamp": "2024-11-22 15:11:11",
+              "count": 456
+            },
+            {
+              "timestamp": "2024-11-22 18:21:30",
+              "count": 287
+            },
+            {
+              "timestamp": "2024-11-22 20:53:40",
+              "count": 217
+            },
+            {
+              "timestamp": "2024-11-22 01:48:18",
+              "count": 169
+            },
+            {
+              "timestamp": "2024-11-22 06:44:22",
+              "count": 184
+            },
+            {
+              "timestamp": "2024-11-22 11:29:04",
+              "count": 119
+            },
+            {
+              "timestamp": "2024-11-22 03:03:31",
+              "count": 26
+            },
+            {
+              "timestamp": "2024-11-22 05:46:19",
+              "count": 42
+            },
+            {
+              "timestamp": "2024-11-22 05:29:11",
+              "count": 262
+            },
+            {
+              "timestamp": "2024-11-22 08:45:54",
+              "count": 16
+            },
+            {
+              "timestamp": "2024-11-22 10:19:18",
+              "count": 184
+            },
+            {
+              "timestamp": "2024-11-22 15:06:41",
+              "count": 292
+            },
+            {
+              "timestamp": "2024-11-22 21:23:01",
+              "count": 302
+            },
+            {
+              "timestamp": "2024-11-22 06:14:29",
+              "count": 321
+            },
+            {
+              "timestamp": "2024-11-22 14:59:41",
+              "count": 371
+            },
+            {
+              "timestamp": "2024-11-22 23:04:33",
+              "count": 62
+            },
+            {
+              "timestamp": "2024-11-22 06:33:28",
+              "count": 185
+            },
+            {
+              "timestamp": "2024-11-22 12:04:54",
+              "count": 307
+            },
+            {
+              "timestamp": "2024-11-22 05:59:46",
+              "count": 168
+            },
+            {
+              "timestamp": "2024-11-22 18:39:37",
+              "count": 30
+            },
+            {
+              "timestamp": "2024-11-22 22:18:38",
+              "count": 279
+            },
+            {
+              "timestamp": "2024-11-22 01:05:24",
+              "count": 29
+            },
+            {
+              "timestamp": "2024-11-22 08:29:29",
+              "count": 121
+            },
+            {
+              "timestamp": "2024-11-22 05:06:30",
+              "count": 69
+            },
+            {
+              "timestamp": "2024-11-22 04:14:15",
+              "count": 150
+            },
+            {
+              "timestamp": "2024-11-22 08:03:05",
+              "count": 298
+            },
+            {
+              "timestamp": "2024-11-22 08:30:30",
+              "count": 408
+            },
+            {
+              "timestamp": "2024-11-22 05:39:25",
+              "count": 340
+            },
+            {
+              "timestamp": "2024-11-22 17:14:28",
+              "count": 474
+            },
+            {
+              "timestamp": "2024-11-22 18:03:11",
+              "count": 247
+            },
+            {
+              "timestamp": "2024-11-22 18:02:53",
+              "count": 260
+            },
+            {
+              "timestamp": "2024-11-22 22:38:43",
+              "count": 31
+            },
+            {
+              "timestamp": "2024-11-22 11:39:49",
+              "count": 434
+            },
+            {
+              "timestamp": "2024-11-22 01:28:19",
+              "count": 302
+            },
+            {
+              "timestamp": "2024-11-22 20:48:31",
+              "count": 240
+            },
+            {
+              "timestamp": "2024-11-22 06:12:20",
+              "count": 96
+            },
+            {
+              "timestamp": "2024-11-22 05:09:26",
+              "count": 114
+            },
+            {
+              "timestamp": "2024-11-22 16:39:57",
+              "count": 21
+            },
+            {
+              "timestamp": "2024-11-22 08:15:55",
+              "count": 416
+            },
+            {
+              "timestamp": "2024-11-22 08:59:14",
+              "count": 289
+            },
+            {
+              "timestamp": "2024-11-22 04:49:29",
+              "count": 309
+            },
+            {
+              "timestamp": "2024-11-22 03:02:23",
+              "count": 70
+            },
+            {
+              "timestamp": "2024-11-22 22:09:55",
+              "count": 354
+            },
+            {
+              "timestamp": "2024-11-22 05:30:36",
+              "count": 8
+            }
+          ]
+        },
+        "monthly": {
+          "totalTokens": 28008,
+          "totalWalletOnSolana": 1029,
+          "totalWalletOnPolygon": 1657,
+          "totalWalletOnEthereum": 1747,
+          "chartData": [
+            {
+              "timestamp": "2024-11-24 11:53:43",
+              "count": 1175
+            },
+            {
+              "timestamp": "2024-11-11 20:07:42",
+              "count": 1007
+            },
+            {
+              "timestamp": "2024-11-22 17:19:13",
+              "count": 672
+            },
+            {
+              "timestamp": "2024-11-14 11:58:22",
+              "count": 1018
+            },
+            {
+              "timestamp": "2024-11-25 07:43:51",
+              "count": 391
+            },
+            {
+              "timestamp": "2024-11-22 18:20:34",
+              "count": 420
+            },
+            {
+              "timestamp": "2024-11-24 10:04:41",
+              "count": 661
+            },
+            {
+              "timestamp": "2024-11-15 10:51:25",
+              "count": 113
+            },
+            {
+              "timestamp": "2024-11-13 03:08:25",
+              "count": 202
+            },
+            {
+              "timestamp": "2024-11-21 23:14:01",
+              "count": 731
+            },
+            {
+              "timestamp": "2024-11-20 19:09:25",
+              "count": 643
+            },
+            {
+              "timestamp": "2024-11-17 21:43:04",
+              "count": 980
+            },
+            {
+              "timestamp": "2024-11-20 10:58:36",
+              "count": 408
+            },
+            {
+              "timestamp": "2024-11-01 18:56:49",
+              "count": 870
+            },
+            {
+              "timestamp": "2024-11-25 15:42:08",
+              "count": 891
+            },
+            {
+              "timestamp": "2024-11-18 07:21:27",
+              "count": 737
+            },
+            {
+              "timestamp": "2024-11-22 11:08:29",
+              "count": 945
+            },
+            {
+              "timestamp": "2024-11-30 08:12:27",
+              "count": 593
+            },
+            {
+              "timestamp": "2024-11-29 05:16:20",
+              "count": 1277
+            },
+            {
+              "timestamp": "2024-11-08 07:57:30",
+              "count": 103
+            },
+            {
+              "timestamp": "2024-11-22 13:22:08",
+              "count": 1309
+            },
+            {
+              "timestamp": "2024-11-11 10:25:53",
+              "count": 946
+            },
+            {
+              "timestamp": "2024-11-13 18:49:54",
+              "count": 1272
+            },
+            {
+              "timestamp": "2024-11-20 16:14:40",
+              "count": 1079
+            },
+            {
+              "timestamp": "2024-11-17 14:29:25",
+              "count": 989
+            },
+            {
+              "timestamp": "2024-11-23 23:14:42",
+              "count": 1308
+            },
+            {
+              "timestamp": "2024-11-02 06:52:51",
+              "count": 1046
+            },
+            {
+              "timestamp": "2024-11-10 06:45:59",
+              "count": 605
+            },
+            {
+              "timestamp": "2024-11-12 14:38:53",
+              "count": 1478
+            },
+            {
+              "timestamp": "2024-11-10 03:59:01",
+              "count": 51
+            }
+          ]
+        },
+        "allTime": {
+          "totalTokens": 590813,
+          "totalWalletOnSolana": 302705,
+          "totalWalletOnPolygon": 511571,
+          "totalWalletOnEthereum": 472707,
+          "totalChains": [
+            "Polygon",
+            "Ethereum",
+            "Solana"
+          ]
+        }
+      }
+    }
+  }
